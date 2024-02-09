@@ -10,7 +10,7 @@
 | 숫자 야구 | 2023-10-19 ~ 2023-10-25 | [링크](https://github.com/reddevilmidzy/java-baseball-6) | [PR링크](https://github.com/woowacourse-precourse/java-baseball-6/pull/843) |
 | 자동차 경주 | 2023-10-26 ~ 2023-11-01 | [링크](https://github.com/reddevilmidzy/java-racingcar-6) | [PR링크](https://github.com/woowacourse-precourse/java-racingcar-6/pull/586) |
 | 로또 | 2023-11-02 ~ 2023-11-8 | [링크](https://github.com/reddevilmidzy/java-lotto-6) | [PR링크](https://github.com/woowacourse-precourse/java-lotto-6/pull/445) |
-| 크리스마스 프로모션 | 2023-11-9  ~ 2023-11-15 | [링크](https://github.com/reddevilmidzy/java-baseball-6) | - |
+| 크리스마스 프로모션 | 2023-11-9  ~ 2023-11-15 | [링크](https://github.com/reddevilmidzy/java-christmas-6-reddevilmidzy) | - |
 
 <br>
 
