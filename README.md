@@ -28,4 +28,4 @@
 | 자동차 경주 1단계 | 2024-02-13 ~ 2024-02-15 | [step1 링크](https://github.com/reddevilmidzy/java-racingcar/tree/step1) | [PR링크](https://github.com/woowacourse/java-racingcar/pull/728) |
 | 자동차 경주 2단계 | 2024-02-16 ~ 2024-02-19 | [step2 링크](https://github.com/reddevilmidzy/java-racingcar/tree/step2) | [PR링크](https://github.com/woowacourse/java-racingcar/pull/747) |
 | 사다리 타기 1단계 | 2024-02-20 ~ 2024-02-22 | [step1 링크](https://github.com/reddevilmidzy/java-ladder/tree/step1) | [PR링크](https://github.com/woowacourse/java-ladder/pull/281) |
-
+| 사다리 게임 2단계 | 2024-02-23 ~ 2024-03-04 | [step1 링크](https://github.com/reddevilmidzy/java-ladder/tree/step2) | [PR링크](https://github.com/woowacourse/java-ladder/pull/357) |
