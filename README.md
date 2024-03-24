@@ -42,3 +42,4 @@
 * [2주차 회고](https://lazypazy.tistory.com/268)
 * [3주차 회고](https://lazypazy.tistory.com/271)
 * [4주차 회고](https://lazypazy.tistory.com/273)
+* [5주차 회고](https://lazypazy.tistory.com/275)
