@@ -31,6 +31,8 @@
 | 사다리 게임 2단계 | 2024-02-23 ~ 2024-03-04 | [step2 링크](https://github.com/reddevilmidzy/java-ladder/tree/step2) | [PR링크](https://github.com/woowacourse/java-ladder/pull/357) |
 | 블랙잭 게임 1단계 | 2024-03-05 ~ 2024-03-08 | [step1 링크](https://github.com/reddevilmidzy/java-blackjack/tree/step1) | [PR링크](https://github.com/woowacourse/java-blackjack/pull/642) |
 | 블랙잭 게임 2단계 | 2024-03-09 ~ 2024-03-18 | [step2 링크](https://github.com/reddevilmidzy/java-blackjack/tree/step2) | [PR링크](https://github.com/woowacourse/java-blackjack/pull/725) |
+| 체스 1단계 | 2024-03-19 ~ 2024-03-21 | [step1 링크](https://github.com/reddevilmidzy/java-chess/tree/step1) | [PR링크](https://github.com/woowacourse/java-chess/pull/678) |
+
 
 <br>
 
