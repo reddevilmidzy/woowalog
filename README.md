@@ -32,7 +32,13 @@
 | 블랙잭 게임 1단계 | 2024-03-05 ~ 2024-03-08 | [step1 링크](https://github.com/reddevilmidzy/java-blackjack/tree/step1) | [PR링크](https://github.com/woowacourse/java-blackjack/pull/642) |
 | 블랙잭 게임 2단계 | 2024-03-09 ~ 2024-03-18 | [step2 링크](https://github.com/reddevilmidzy/java-blackjack/tree/step2) | [PR링크](https://github.com/woowacourse/java-blackjack/pull/725) |
 | 체스 1단계 | 2024-03-19 ~ 2024-03-21 | [step1 링크](https://github.com/reddevilmidzy/java-chess/tree/step1) | [PR링크](https://github.com/woowacourse/java-chess/pull/678) |
+| 체스 2단계 | 2024-03-22 ~ 2024-04-01 | [step2 링크](https://github.com/reddevilmidzy/java-chess/tree/step2) | [PR링크](https://github.com/woowacourse/java-chess/pull/785) |
 
+<br>
+
+### 📗 기술부채
+
+* [[자바] ENUM에서 equals() vs ==, NPE(NullPointerException)의 고찰](https://lazypazy.tistory.com/278)
 
 <br>
 
@@ -43,3 +49,4 @@
 * [3주차 회고](https://lazypazy.tistory.com/271)
 * [4주차 회고](https://lazypazy.tistory.com/273)
 * [5주차 회고](https://lazypazy.tistory.com/275)
+* [6주차 회고](https://lazypazy.tistory.com/277)
