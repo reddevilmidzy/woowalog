@@ -23,16 +23,16 @@
 
 ## 🌒 Level 1 
 
-| 미션 | 기간 | 레포지토리 | 풀리퀘스트 |
-|:---:|:---:|:---:|:---:|
-| 자동차 경주 1단계 | 2024-02-13 ~ 2024-02-15 | [step1 링크](https://github.com/reddevilmidzy/java-racingcar/tree/step1) | [PR링크](https://github.com/woowacourse/java-racingcar/pull/728) |
-| 자동차 경주 2단계 | 2024-02-16 ~ 2024-02-19 | [step2 링크](https://github.com/reddevilmidzy/java-racingcar/tree/step2) | [PR링크](https://github.com/woowacourse/java-racingcar/pull/747) |
-| 사다리 타기 1단계 | 2024-02-20 ~ 2024-02-22 | [step1 링크](https://github.com/reddevilmidzy/java-ladder/tree/step1) | [PR링크](https://github.com/woowacourse/java-ladder/pull/281) |
-| 사다리 게임 2단계 | 2024-02-23 ~ 2024-03-04 | [step2 링크](https://github.com/reddevilmidzy/java-ladder/tree/step2) | [PR링크](https://github.com/woowacourse/java-ladder/pull/357) |
-| 블랙잭 게임 1단계 | 2024-03-05 ~ 2024-03-08 | [step1 링크](https://github.com/reddevilmidzy/java-blackjack/tree/step1) | [PR링크](https://github.com/woowacourse/java-blackjack/pull/642) |
-| 블랙잭 게임 2단계 | 2024-03-09 ~ 2024-03-18 | [step2 링크](https://github.com/reddevilmidzy/java-blackjack/tree/step2) | [PR링크](https://github.com/woowacourse/java-blackjack/pull/725) |
-| 체스 1단계 | 2024-03-19 ~ 2024-03-21 | [step1 링크](https://github.com/reddevilmidzy/java-chess/tree/step1) | [PR링크](https://github.com/woowacourse/java-chess/pull/678) |
-| 체스 2단계 | 2024-03-22 ~ 2024-04-01 | [step2 링크](https://github.com/reddevilmidzy/java-chess/tree/step2) | [PR링크](https://github.com/woowacourse/java-chess/pull/785) |
+| 미션 | 기간 | 레포지토리 | 풀리퀘스트 | 페어 | 리뷰어 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 자동차 경주 1단계 | 2024-02-13 ~ 2024-02-15 | [step1 링크](https://github.com/reddevilmidzy/java-racingcar/tree/step1) | [PR링크](https://github.com/woowacourse/java-racingcar/pull/728) | [백호](https://github.com/Arachneee) | [범블비](https://github.com/ddaaac) |
+| 자동차 경주 2단계 | 2024-02-16 ~ 2024-02-19 | [step2 링크](https://github.com/reddevilmidzy/java-racingcar/tree/step2) | [PR링크](https://github.com/woowacourse/java-racingcar/pull/747) | | |
+| 사다리 타기 1단계 | 2024-02-20 ~ 2024-02-22 | [step1 링크](https://github.com/reddevilmidzy/java-ladder/tree/step1) | [PR링크](https://github.com/woowacourse/java-ladder/pull/281) | [안나](https://github.com/Mingyum-Kim) | [아서](https://github.com/Hyunta) |
+| 사다리 게임 2단계 | 2024-02-23 ~ 2024-03-04 | [step2 링크](https://github.com/reddevilmidzy/java-ladder/tree/step2) | [PR링크](https://github.com/woowacourse/java-ladder/pull/357) | | |
+| 블랙잭 게임 1단계 | 2024-03-05 ~ 2024-03-08 | [step1 링크](https://github.com/reddevilmidzy/java-blackjack/tree/step1) | [PR링크](https://github.com/woowacourse/java-blackjack/pull/642) | [제제](https://github.com/JINU-CHANG) | [수달](https://github.com/her0807) |
+| 블랙잭 게임 2단계 | 2024-03-09 ~ 2024-03-18 | [step2 링크](https://github.com/reddevilmidzy/java-blackjack/tree/step2) | [PR링크](https://github.com/woowacourse/java-blackjack/pull/725) | | |
+| 체스 1단계 | 2024-03-19 ~ 2024-03-21 | [step1 링크](https://github.com/reddevilmidzy/java-chess/tree/step1) | [PR링크](https://github.com/woowacourse/java-chess/pull/678) | [비토](https://github.com/unifolio0) | [제이미](https://github.com/jamie9504) |
+| 체스 2단계 | 2024-03-22 ~ 2024-04-01 | [step2 링크](https://github.com/reddevilmidzy/java-chess/tree/step2) | [PR링크](https://github.com/woowacourse/java-chess/pull/785) | | |
 
 <br>
 
