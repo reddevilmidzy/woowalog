@@ -39,6 +39,7 @@
 ### 📗 기술부채
 
 * [[자바] ENUM에서 equals() vs ==, NPE(NullPointerException)의 고찰](https://lazypazy.tistory.com/278)
+* [[자바] 내가 커스텀 예외를 사용하게된 이유 (IllegalArgumentException, IllegalStateException)](https://lazypazy.tistory.com/280)
 
 <br>
 
