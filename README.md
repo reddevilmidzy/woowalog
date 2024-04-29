@@ -64,5 +64,17 @@
 | 방탈출 예약 관리 2단계 | 2024-04-19 ~ 2024-04-24 | [step2 링크](https://github.com/reddevilmidzy/spring-roomescape-admin/tree/step2) | [PR링크](https://github.com/woowacourse/spring-roomescape-admin/pull/88) | | |
 | 방탈출 예약 관리 3단계 | 2024-04-25 ~ 2024-04-29 | [step3 링크](https://github.com/reddevilmidzy/spring-roomescape-admin/tree/step3) | [PR링크](https://github.com/woowacourse/spring-roomescape-admin/pull/158) | | |
 
+<br>
+
+### 소제목 추천좀
+
+* [[Spring] @ResponseBody vs ResponseEntity](https://lazypazy.tistory.com/284)
+
+<br>
+
+### 회고
+
+* [9주차 회고](https://lazypazy.tistory.com/285)
+* [10주차 회고](https://lazypazy.tistory.com/287)
 
 <br>
