@@ -53,3 +53,16 @@
 * [5주차 회고](https://lazypazy.tistory.com/275)
 * [6주차 회고](https://lazypazy.tistory.com/277)
 * [7주차 회고](https://lazypazy.tistory.com/279)
+
+<br>
+
+## 🌓 Level 2  
+
+| 미션 | 기간 | 레포지토리 | 풀리퀘스트 | 페어 | 리뷰어 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 방탈출 예약 관리 1단계 | 2024-04-16 ~ 2024-04-18 | [step1 링크](https://github.com/reddevilmidzy/spring-roomescape-admin/tree/step1) | [PR링크](https://github.com/woowacourse/spring-roomescape-admin/pull/54) | [감자](https://github.com/khabh) | [오리](https://github.com/jinyoungchoi95) |
+| 방탈출 예약 관리 2단계 | 2024-04-19 ~ 2024-04-24 | [step2 링크](https://github.com/reddevilmidzy/spring-roomescape-admin/tree/step2) | [PR링크](https://github.com/woowacourse/spring-roomescape-admin/pull/88) | | |
+| 방탈출 예약 관리 3단계 | 2024-04-25 ~ 2024-04-29 | [step3 링크](https://github.com/reddevilmidzy/spring-roomescape-admin/tree/step3) | [PR링크](https://github.com/woowacourse/spring-roomescape-admin/pull/158) | | |
+
+
+<br>
